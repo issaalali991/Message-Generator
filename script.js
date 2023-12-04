@@ -50,33 +50,3 @@ generateMessage()
 
 
 
-
-
-
-// btn.addEventListener('click',function(){
-//   let personalProverb = ['Du musst in '];
-//   for (x in proverbs){
-//     let y= genrandom(proverbs[x].length);
-//     switch(x){
-//       case ('city'): 
-//         personalProverb.push(`${proverbs[x][y]} leben, `);
-//         break;
-//         case ('job'): 
-//         personalProverb.push(`als ${proverbs[x][y]} arbeiten, `);
-//         break;
-//         case ('animal'): 
-//         personalProverb.push(`einen ${proverbs[x][y]} haben, `);
-//         break;
-//         case ('pro'): 
-//         personalProverb.push(`und sich an disem Sprichwort erinnern: ${proverbs[x][y]} , `);
-//         break;
-//         default:
-//           personalProverb.push('.')
-//     }
-
-  
-//   }
-//   output.innerHTML=personalProverb.join('\n');
- 
-//   // output.innerHTML=proverbs.city[1]
-// })
