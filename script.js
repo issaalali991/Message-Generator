@@ -9,13 +9,12 @@ const proverbs = {
 };
 
 
-// generate a random number
+
 function genrandom(num){
   return Math.ceil(Math.random()*num)
 }
 
-// let btn=document.getElementById('btn');
-// let output=document.getElementById('output');
+
 
 
 
